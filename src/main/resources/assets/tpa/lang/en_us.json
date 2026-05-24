@@ -1,0 +1,7 @@
+{
+  "itemGroup.tpa": "TPA",
+  "tpa.cmd.tpa": "Request teleport to a player",
+  "tpa.cmd.tpaccept": "Accept incoming teleport request",
+  "tpa.cmd.tpadeny": "Deny incoming teleport request",
+  "tpa.cmd.tpacancel": "Cancel your outgoing teleport request"
+}

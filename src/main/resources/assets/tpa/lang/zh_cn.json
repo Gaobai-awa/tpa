@@ -1,0 +1,7 @@
+{
+  "itemGroup.tpa": "TPA",
+  "tpa.cmd.tpa": "\u8bf7\u6c42\u4f20\u9001\u5230\u67d0\u73a9\u5bb6",
+  "tpa.cmd.tpaccept": "\u540c\u610f\u63a5\u6536\u7684\u4f20\u9001\u8bf7\u6c42",
+  "tpa.cmd.tpadeny": "\u62d2\u7edd\u63a5\u6536\u7684\u4f20\u9001\u8bf7\u6c42",
+  "tpa.cmd.tpacancel": "\u53d6\u6d88\u60a8\u53d1\u51fa\u7684\u4f20\u9001\u8bf7\u6c42"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tpa",
+  "version": "${version}",
+  "name": "TPA",
+  "description": "Teleport request system: /tpa <player> to request teleport, /tpaccept to accept, /tpadeny to deny, /tpacancel to cancel",
+  "authors": ["Gaobai"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/tpa/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "server": ["net.tpa.TpaMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "fabric-api": "*",
+    "minecraft": ">=1.20.0",
+    "java": ">=17"
+  }
+}
